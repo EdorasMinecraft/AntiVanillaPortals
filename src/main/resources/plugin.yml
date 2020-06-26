@@ -1,0 +1,5 @@
+name: AntiVanillaPortals
+version: ${project.version}
+main: es.kikisito.antivanillaportals.Main
+api-version: 1.16
+authors: [Kikisito]
